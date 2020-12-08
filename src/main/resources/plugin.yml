@@ -1,0 +1,6 @@
+name: SpawnSetter
+version: ${project.version}
+main: com.github.mori01231.spawnsetter.SpawnSetter
+api-version: 1.14
+authors: [ Mori01231 ]
+website: azisaba.net
